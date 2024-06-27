@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/unique237/Kamer-sub.git/static/css/main.2486d8b2.css",
+    "main.js": "/unique237/Kamer-sub.git/static/js/main.7e025374.js",
+    "static/js/453.419a5d54.chunk.js": "/unique237/Kamer-sub.git/static/js/453.419a5d54.chunk.js",
+    "static/media/image6.jpg": "/unique237/Kamer-sub.git/static/media/image6.4660902cdd04fa754b22.jpg",
+    "static/media/image7.jpg": "/unique237/Kamer-sub.git/static/media/image7.d850a569dd16a4e11944.jpg",
+    "static/media/image2.jpg": "/unique237/Kamer-sub.git/static/media/image2.4d3b97510a29b04e9558.jpg",
+    "static/media/image4.jpg": "/unique237/Kamer-sub.git/static/media/image4.4d3b97510a29b04e9558.jpg",
+    "static/media/image5.jpg": "/unique237/Kamer-sub.git/static/media/image5.4fe3947dfca1f333afaf.jpg",
+    "static/media/image3.jpg": "/unique237/Kamer-sub.git/static/media/image3.a63e37939a800be742ea.jpg",
+    "static/media/image1.jpeg": "/unique237/Kamer-sub.git/static/media/image1.74f29d16018637792598.jpeg",
+    "static/media/header.jpg": "/unique237/Kamer-sub.git/static/media/header.daa6b5d22511be50d169.jpg",
+    "static/media/image8.jpg": "/unique237/Kamer-sub.git/static/media/image8.61ee4bfd4909f777ae46.jpg",
+    "index.html": "/unique237/Kamer-sub.git/index.html",
+    "main.2486d8b2.css.map": "/unique237/Kamer-sub.git/static/css/main.2486d8b2.css.map",
+    "main.7e025374.js.map": "/unique237/Kamer-sub.git/static/js/main.7e025374.js.map",
+    "453.419a5d54.chunk.js.map": "/unique237/Kamer-sub.git/static/js/453.419a5d54.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2486d8b2.css",
+    "static/js/main.7e025374.js"
+  ]
+}
