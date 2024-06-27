@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/Restaurant/static/css/main.2486d8b2.css",
-    "main.js": "/Restaurant/static/js/main.db12dca7.js",
-    "static/js/453.419a5d54.chunk.js": "/Restaurant/static/js/453.419a5d54.chunk.js",
-    "static/media/image6.jpg": "/Restaurant/static/media/image6.4660902cdd04fa754b22.jpg",
-    "static/media/image7.jpg": "/Restaurant/static/media/image7.d850a569dd16a4e11944.jpg",
-    "static/media/image2.jpg": "/Restaurant/static/media/image2.4d3b97510a29b04e9558.jpg",
-    "static/media/image4.jpg": "/Restaurant/static/media/image4.4d3b97510a29b04e9558.jpg",
-    "static/media/image5.jpg": "/Restaurant/static/media/image5.4fe3947dfca1f333afaf.jpg",
-    "static/media/image3.jpg": "/Restaurant/static/media/image3.a63e37939a800be742ea.jpg",
-    "static/media/image1.jpeg": "/Restaurant/static/media/image1.74f29d16018637792598.jpeg",
-    "static/media/header.jpg": "/Restaurant/static/media/header.daa6b5d22511be50d169.jpg",
-    "static/media/image8.jpg": "/Restaurant/static/media/image8.61ee4bfd4909f777ae46.jpg",
-    "index.html": "/Restaurant/index.html",
-    "main.2486d8b2.css.map": "/Restaurant/static/css/main.2486d8b2.css.map",
-    "main.db12dca7.js.map": "/Restaurant/static/js/main.db12dca7.js.map",
-    "453.419a5d54.chunk.js.map": "/Restaurant/static/js/453.419a5d54.chunk.js.map"
+    "main.css": "/Kamer-sub/static/css/main.2486d8b2.css",
+    "main.js": "/Kamer-sub/static/js/main.95147b52.js",
+    "static/js/453.419a5d54.chunk.js": "/Kamer-sub/static/js/453.419a5d54.chunk.js",
+    "static/media/image6.jpg": "/Kamer-sub/static/media/image6.4660902cdd04fa754b22.jpg",
+    "static/media/image7.jpg": "/Kamer-sub/static/media/image7.d850a569dd16a4e11944.jpg",
+    "static/media/image2.jpg": "/Kamer-sub/static/media/image2.4d3b97510a29b04e9558.jpg",
+    "static/media/image4.jpg": "/Kamer-sub/static/media/image4.4d3b97510a29b04e9558.jpg",
+    "static/media/image5.jpg": "/Kamer-sub/static/media/image5.4fe3947dfca1f333afaf.jpg",
+    "static/media/image3.jpg": "/Kamer-sub/static/media/image3.a63e37939a800be742ea.jpg",
+    "static/media/image1.jpeg": "/Kamer-sub/static/media/image1.74f29d16018637792598.jpeg",
+    "static/media/header.jpg": "/Kamer-sub/static/media/header.daa6b5d22511be50d169.jpg",
+    "static/media/image8.jpg": "/Kamer-sub/static/media/image8.61ee4bfd4909f777ae46.jpg",
+    "index.html": "/Kamer-sub/index.html",
+    "main.2486d8b2.css.map": "/Kamer-sub/static/css/main.2486d8b2.css.map",
+    "main.95147b52.js.map": "/Kamer-sub/static/js/main.95147b52.js.map",
+    "453.419a5d54.chunk.js.map": "/Kamer-sub/static/js/453.419a5d54.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.2486d8b2.css",
-    "static/js/main.db12dca7.js"
+    "static/js/main.95147b52.js"
   ]
 }
